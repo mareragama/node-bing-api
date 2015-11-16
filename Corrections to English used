@@ -1,0 +1,10 @@
+Changelog v2
+
+In order to follow JavaScript good practices and allow the library to be promised, the callback function is now the last parameter.
+
+Getting Spanish results:
+
+
+Running Tests
+
+In order to run the tests, the integration tests require a secrets.js file to be created from the provided secrets.js.example example, and filled in *supplied* with a valid access key.
